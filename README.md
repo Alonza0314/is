@@ -12,6 +12,7 @@ This "is" project is aimed to build a useful determine tool by "is". Welcome for
 | Target | Releated Functions | Author |
 | - | - | - |
 | [Bool](./bool.go) | `is.True()`<br>`is.False()` | [Alonza0314](https://github.com/Alonza0314) |
+| [Letter](./letter.go) | `is.Upper()`<br>`is.Lower()`<br>`is.AllUpper()`<br>`is.AllLower()` | [Zach1113](https://github.com/Zach1113) |
 
 ## Contribution Guide
 
